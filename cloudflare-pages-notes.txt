@@ -1,0 +1,7 @@
+Cloudflare Pages settings:
+- Framework preset: Vite
+- Build command: npm run build
+- Build output directory: dist
+- Root directory: /
+
+Do not deploy this React/Vite source using GitHub Pages without configuring a Vite build workflow.
